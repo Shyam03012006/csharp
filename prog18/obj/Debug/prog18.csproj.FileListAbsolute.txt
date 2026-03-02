@@ -1,0 +1,7 @@
+D:\shyam(7028)\bca4\prog18\bin\Debug\prog18.exe.config
+D:\shyam(7028)\bca4\prog18\bin\Debug\prog18.exe
+D:\shyam(7028)\bca4\prog18\bin\Debug\prog18.pdb
+D:\shyam(7028)\bca4\prog18\obj\Debug\prog18.csproj.AssemblyReference.cache
+D:\shyam(7028)\bca4\prog18\obj\Debug\prog18.csproj.CoreCompileInputs.cache
+D:\shyam(7028)\bca4\prog18\obj\Debug\prog18.exe
+D:\shyam(7028)\bca4\prog18\obj\Debug\prog18.pdb

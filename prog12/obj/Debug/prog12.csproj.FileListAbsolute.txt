@@ -1,0 +1,7 @@
+D:\shyam(7028)\bca4\prog12\bin\Debug\prog12.exe.config
+D:\shyam(7028)\bca4\prog12\bin\Debug\prog12.exe
+D:\shyam(7028)\bca4\prog12\bin\Debug\prog12.pdb
+D:\shyam(7028)\bca4\prog12\obj\Debug\prog12.csproj.AssemblyReference.cache
+D:\shyam(7028)\bca4\prog12\obj\Debug\prog12.csproj.CoreCompileInputs.cache
+D:\shyam(7028)\bca4\prog12\obj\Debug\prog12.exe
+D:\shyam(7028)\bca4\prog12\obj\Debug\prog12.pdb
