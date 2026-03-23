@@ -1,0 +1,7 @@
+D:\shyam(7028)\bca4\program3\obj\Debug\program3.csproj.AssemblyReference.cache
+D:\shyam(7028)\bca4\program3\obj\Debug\program3.csproj.CoreCompileInputs.cache
+D:\shyam(7028)\bca4\program3\bin\Debug\program3.exe.config
+D:\shyam(7028)\bca4\program3\bin\Debug\program3.exe
+D:\shyam(7028)\bca4\program3\bin\Debug\program3.pdb
+D:\shyam(7028)\bca4\program3\obj\Debug\program3.exe
+D:\shyam(7028)\bca4\program3\obj\Debug\program3.pdb
