@@ -1,0 +1,7 @@
+D:\shyam(7028)\bca4\PROGRAM9\obj\Debug\PROGRAM9.csproj.AssemblyReference.cache
+D:\shyam(7028)\bca4\PROGRAM9\obj\Debug\PROGRAM9.csproj.CoreCompileInputs.cache
+D:\shyam(7028)\bca4\PROGRAM9\bin\Debug\PROGRAM9.exe.config
+D:\shyam(7028)\bca4\PROGRAM9\bin\Debug\PROGRAM9.exe
+D:\shyam(7028)\bca4\PROGRAM9\bin\Debug\PROGRAM9.pdb
+D:\shyam(7028)\bca4\PROGRAM9\obj\Debug\PROGRAM9.exe
+D:\shyam(7028)\bca4\PROGRAM9\obj\Debug\PROGRAM9.pdb

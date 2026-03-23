@@ -1,0 +1,7 @@
+D:\shyam(7028)\bca4\jagged_array\bin\Debug\jagged_array.exe.config
+D:\shyam(7028)\bca4\jagged_array\bin\Debug\jagged_array.exe
+D:\shyam(7028)\bca4\jagged_array\bin\Debug\jagged_array.pdb
+D:\shyam(7028)\bca4\jagged_array\obj\Debug\jagged_array.csproj.AssemblyReference.cache
+D:\shyam(7028)\bca4\jagged_array\obj\Debug\jagged_array.csproj.CoreCompileInputs.cache
+D:\shyam(7028)\bca4\jagged_array\obj\Debug\jagged_array.exe
+D:\shyam(7028)\bca4\jagged_array\obj\Debug\jagged_array.pdb

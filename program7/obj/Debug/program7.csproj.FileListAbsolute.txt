@@ -1,0 +1,7 @@
+D:\shyam(7028)\bca4\program7\bin\Debug\program7.exe.config
+D:\shyam(7028)\bca4\program7\bin\Debug\program7.exe
+D:\shyam(7028)\bca4\program7\bin\Debug\program7.pdb
+D:\shyam(7028)\bca4\program7\obj\Debug\program7.csproj.AssemblyReference.cache
+D:\shyam(7028)\bca4\program7\obj\Debug\program7.csproj.CoreCompileInputs.cache
+D:\shyam(7028)\bca4\program7\obj\Debug\program7.exe
+D:\shyam(7028)\bca4\program7\obj\Debug\program7.pdb
