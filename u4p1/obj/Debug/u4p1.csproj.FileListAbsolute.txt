@@ -1,0 +1,7 @@
+D:\shyam(7028)\bca4\unit1program1\bin\Debug\unit1program1.exe.config
+D:\shyam(7028)\bca4\unit1program1\bin\Debug\unit1program1.exe
+D:\shyam(7028)\bca4\unit1program1\bin\Debug\unit1program1.pdb
+D:\shyam(7028)\bca4\unit1program1\obj\Debug\u4p1.csproj.AssemblyReference.cache
+D:\shyam(7028)\bca4\unit1program1\obj\Debug\u4p1.csproj.CoreCompileInputs.cache
+D:\shyam(7028)\bca4\unit1program1\obj\Debug\unit1program1.exe
+D:\shyam(7028)\bca4\unit1program1\obj\Debug\unit1program1.pdb
